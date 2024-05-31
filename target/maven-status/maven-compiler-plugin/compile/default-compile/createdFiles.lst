@@ -1,0 +1,6 @@
+domain\ClienteProducto.class
+smthread\CajeraProductoMain.class
+withthread\CajeraThreadProductoPrincipal.class
+domain\Producto.class
+withthread\CajeraThreadProducto.class
+smthread\CajeraProducto.class
